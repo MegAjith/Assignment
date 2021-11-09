@@ -57,7 +57,7 @@ strong {
   font-weight: bold;
 }
 dfn {
-  font-style: italic;
+  font-style: oblique;
 }
 h1 {
   margin: .67em 0;
@@ -73,7 +73,7 @@ small {
 sub,
 sup {
   position: relative;
-  font-size: 75%;
+  font-size: 80%;
   line-height: 0;
   vertical-align: baseline;
 }
